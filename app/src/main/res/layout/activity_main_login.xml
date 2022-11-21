@@ -32,7 +32,7 @@
         app:srcCompat="@drawable/logouno" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName"
+        android:id="@+id/edtUser"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
@@ -47,7 +47,7 @@
         android:hint="User"/>
 
     <EditText
-        android:id="@+id/editTextTextPassword"
+        android:id="@+id/edtPass"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
@@ -58,7 +58,7 @@
         android:minHeight="48dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPersonName"
+        app:layout_constraintTop_toBottomOf="@+id/edtUser"
         android:hint="Password"/>
 
     <Button
@@ -71,6 +71,6 @@
         android:text="Login"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextPassword"
+        app:layout_constraintTop_toBottomOf="@+id/edtPass"
         android:background="@drawable/button_redondeado"/>
 </androidx.constraintlayout.widget.ConstraintLayout>

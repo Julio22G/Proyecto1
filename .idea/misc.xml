@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Derrino Lo/Documents/GitHub/Proyecto1/app/src/main/res/layout/activity_main_login.xml" value="0.20520833333333333" />
-        <entry key="..\:/Users/Derrino Lo/Documents/GitHub/Proyecto1/app/src/main/res/layout/activity_registro.xml" value="0.209375" />
+        <entry key="..\:/OneDrive/Documentos/GitHub/Proyecto1/app/src/main/res/drawable/button_redondeado.xml" value="0.333" />
+        <entry key="..\:/OneDrive/Documentos/GitHub/Proyecto1/app/src/main/res/layout/activity_main.xml" value="0.360054347826087" />
+        <entry key="..\:/OneDrive/Documentos/GitHub/Proyecto1/app/src/main/res/layout/activity_main_login.xml" value="0.360054347826087" />
+        <entry key="..\:/OneDrive/Documentos/GitHub/Proyecto1/app/src/main/res/layout/activity_registro.xml" value="0.360054347826087" />
         <entry key="..\:/Users/julio/AndroidStudioProjects/Proyecto/app/src/main/res/drawable/button_redondeado.xml" value="0.333" />
         <entry key="..\:/Users/julio/AndroidStudioProjects/Proyecto/app/src/main/res/layout/activity_main.xml" value="0.360054347826087" />
         <entry key="..\:/Users/julio/AndroidStudioProjects/Proyecto/app/src/main/res/layout/activity_main_login.xml" value="0.360054347826087" />
