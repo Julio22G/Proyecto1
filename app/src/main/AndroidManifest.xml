@@ -16,6 +16,9 @@
         android:theme="@style/Theme.AppCompat.NoActionBar"
         tools:targetApi="31">
         <activity
+            android:name=".shorts"
+            android:exported="false" />
+        <activity
             android:name=".camisas"
             android:exported="false" />
         <activity
