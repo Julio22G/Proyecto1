@@ -34,7 +34,23 @@ public class Menu extends AppCompatActivity {
         btnshort.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent men = new Intent(getApplicationContext(),Short.class);
+                Intent men = new Intent(getApplicationContext(),shorts.class);
+                startActivity(men);
+            }
+        });
+
+        btnzapatos.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent men = new Intent(getApplicationContext(),Zapatos.class);
+                startActivity(men);
+            }
+        });
+
+        btnPantalones.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent men = new Intent(getApplicationContext(),pantalones.class);
                 startActivity(men);
             }
         });
